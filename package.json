@@ -1,0 +1,11 @@
+{
+  "name": "helpproject",
+  "version": "1.0.0",
+  "description": "Javascript, PWAs, Web,  Test Project",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server ./public -c-1 -p 3000"
+  },
+  "author": "Abousaid Salah-Eddine",
+  "license": "MIT"
+}
